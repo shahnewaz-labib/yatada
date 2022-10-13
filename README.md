@@ -1,2 +1,3 @@
 # yatada
-yet another todo app
+yet another to and do app
+
